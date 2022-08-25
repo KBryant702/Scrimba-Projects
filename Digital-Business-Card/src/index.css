@@ -1,0 +1,109 @@
+body{
+  font-family: 'Inter', sans-serif;
+  width: 550px;
+height: 868px;
+margin: auto;
+background: #23252C;
+
+}
+h2{
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2B283A;
+  margin: 25px 0 5px 0;
+  }
+ 
+
+.Info > img{
+
+  border-radius: 10px 10px 0  0;
+  width: 317px;
+height: 317px;
+
+}
+
+.footer{
+display: flex;
+width: 317px;
+background-color: #D5D4D8;
+border-radius: 0px 0px 10px 10px;
+justify-content: center;
+margin-top: 31px;
+}
+.social-media{
+  margin: 10px;
+}
+.App{
+  background: #F5F5F5;
+  width: 317px;
+  border-radius: 15px;
+}
+
+.nav{
+  display: flex;
+flex-direction: row;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+
+}
+.btns{
+  width: 115px;
+  height: 34px;
+  gap: 8px;
+  border-radius: 6px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  
+}
+.Linkedin{
+  background: #5093E2;
+  color: white;
+  margin-left: 17px;
+
+
+}
+.Email{
+  background-color: white;
+  color:#1E1F26;
+
+  
+}
+.title{
+
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 15px;
+  text-align: center;
+  
+  color: #48AAAD;
+ 
+
+  
+}
+.name{
+
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #2B283A;
+margin: 20px 10px 6px 20px;
+}
+
+.fa-item{
+  padding-right: 8px;
+}
+.Text{
+
+  font-size: 12px;
+  line-height: 15px;
+text-align: left;
+  color: #4A4E74;
+  padding:0 35px 0 35px;
+  
+
+}
+p.Text{
+  
+}
