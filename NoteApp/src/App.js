@@ -27,6 +27,7 @@ export default function App() {
 
     React.useEffect(() => {
         localStorage.setItem("notes", JSON.stringify(notes))
+        // console.log(notes[0].body.split("\n"))
     }, [notes])
     
     function createNewNote() {
